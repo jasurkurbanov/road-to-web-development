@@ -1,4 +1,4 @@
-# road-to-web-development
+# Практичексие задание для веб разработчиков
 # Этап 1
 ## Выполнить 10 Проектов
 ### 1) Home Page 
@@ -83,7 +83,7 @@
 
 [Design](https://www.figma.com/community/file/829474905036527548) by [Feyza Okumus](figma.com/@feyza)
 
-# Stage 2
+# Stage 2 [not finished]
 
 ### 1) Admin Panel
 Link to Project: https://www.figma.com/file/rcnGVgd4kJRIarXnbWLWGN/CMS-Template-Community?node-id=0%3A1
@@ -109,7 +109,7 @@ Link to Project: https://www.figma.com/file/MsrjjBOhb5ulNNz9K4O2Bb/Website-Templ
 ### Video Platform
 https://www.figma.com/community/file/990181064583275410 
 
-# Stage 3
+# Stage 3 [not finished]
 Not completed, need to change some photos
 Financial Dashboard
 https://www.figma.com/community/file/894542039433511203
