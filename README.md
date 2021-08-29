@@ -1,6 +1,6 @@
 # Практикум по веб разработке
 ## Этап 1 (Выполнить 10 проектов)
-#### 1) Home Page 
+#### 1) Home Page ( hard for first time)
 [Ссылка](https://www.figma.com/file/rwyCzerWa4HWnguPnPJVz2/Delhi-India-Gate-Dribbble-Shot-Preview-Community?node-id=0%3A1) на макет сайта 
 
 Обязательно нужно указать автора и ссылку на дизайн!
