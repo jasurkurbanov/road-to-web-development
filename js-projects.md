@@ -91,7 +91,7 @@ to delete from list.
 
 ### 14) Word Manipulation
 Level 1:add an input and button button. when user enters value inside input save value 
-in variable and show on the screen inside <h1/> tag
+in variable and show on the screen inside <h1></h1> tag
 Add three buttons for 
 Uppercase, Lowercase, Capitlaize
 Level 2: Add another button for showing length of string inside modal
