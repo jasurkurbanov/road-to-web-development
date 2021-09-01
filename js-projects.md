@@ -163,3 +163,80 @@ description
 create gallery from created array.
 Level 2: Open image in modal. when user clicked on 
 gallery images
+
+### 22) FlipImage Project
+
+Level 1: User can flip image 
+horizontally and vertically
+
+Level 2: dynamic image. Now 
+instead of static image, user 
+should upload image via input.
+After this user can flip image.
+
+### 23) A restaurant menu page
+Level 1: create array of objects for meals 
+that served in restaurants. You have 
+3 three categories: breakfast, lunch, dinner
+Show them in form of grid
+
+Level 2: add filter tabs so that, by pressing 
+breakfast button all meals for breakfast should
+be filtered and etc.
+
+### 24) Video background 
+Level 1: add video to background of website.
+
+Level 2: add controls buttons for manipulating
+video. Play pause-buttons should be added.
+
+### 25) FAQ page
+
+Level 1: create array of objects with questions
+and answers. Show them in accordion format
+
+Level 2: add any animation for accordion
+
+### 26) Sidebar
+
+Level 1: create sidebar for project, sidebar
+should expand and minimize
+Level 2: add animation for expansion and minimization
+
+### 27) Reviews page
+Level 1: create array of object show them 
+in form of slider
+Level 2: add more button. In order to show
+review in modal
+
+### 28) Lorem impsum generator
+Level 1: enter number of paragraphs inside input
+by pressing on generate button, it should
+generate lorem impsum number of times entered.
+
+Level 2: add validation to inputs. user cannot 
+generate more than 10 paraghraphs. show error 
+in form of modal.
+
+### 29) Giveaway project 
+Level 1: create countdown for giveaway. 
+after 10 days give away will be started
+
+Level 2: add messages for informing user.
+if 3 days left: show message "3 days"
+if 2 days left: show message "2 days"
+if 1 days left: show message "1 days"
+use switch
+
+### 30) Tabs 
+Level 1: create 3 page tab.
+
+Level 2: create 6 page tab.
+
+### 31) Online Code Editor
+Level 1: User enters text, after 
+submitting. user should be able to change
+text bold, italic, underline
+
+Level 2: add color pallette user should 
+change color of text.
