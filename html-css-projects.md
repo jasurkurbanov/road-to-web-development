@@ -105,10 +105,32 @@ Link to Project: https://www.figma.com/file/MsrjjBOhb5ulNNz9K4O2Bb/Website-Templ
 
 [Design](https://www.figma.com/community/file/874216804517083292) by [Sam Checa](https://www.figma.com/@samcheca)
 
+
+https://www.figma.com/community/file/987737136626732238 
+https://www.figma.com/community/file/777795091326592296
+https://www.figma.com/community/file/884653422492877519 
+https://www.figma.com/community/file/1008012961014155055
+https://www.figma.com/community/file/987596477237504132
+https://www.figma.com/community/file/901098237531733543
+https://www.figma.com/community/file/1009084511604261924
+https://www.figma.com/community/file/1007240957583599167 
+https://www.figma.com/community/file/967001524119781382 
+https://www.figma.com/community/file/1003303708455595379
+https://www.figma.com/community/file/968241156604846869
+
+useful https://www.figma.com/@jstemplate
 ### Video Platform
 https://www.figma.com/community/file/990181064583275410 
 
 # Stage 3 [not finished]
+(for me )
+https://www.figma.com/community/file/970738774884202091
+
+
+https://www.figma.com/community/file/789561221304647250 
+
+https://www.figma.com/community/file/989843209511998246 
+
 Not completed, need to change some photos
 Financial Dashboard
 https://www.figma.com/community/file/894542039433511203
