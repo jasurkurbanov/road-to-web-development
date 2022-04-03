@@ -1,5 +1,7 @@
+Create dummy data with https://www.mockaroo.com/
 
 Working with arrays: Filter, map, foreach, push, pop, 
+
 2) Filter project: https://jsbeginners.com/filter-project
 3) Array of objects testimonilas: https://jsbeginners.com/testimonials-project/
 4) To Do List Project: https://jsbeginners.com/todo-list-javascript-project-v1/
@@ -38,3 +40,14 @@ search, display, filter based on tags
 get pixabay api from docs
 learn docs
 7) CRUD: 
+
+
+## codewars on weekend
+https://www.codewars.com/collections/javascript-basics-2 omit last 7
+total tasks: 34
+
+8kyu https://www.codewars.com/kata/search/?q=&r[]=-8&beta=false&order_by=popularity%20desc
+total tasks: 10
+
+7kyu https://www.codewars.com/kata/search/?q=&r[]=-7&beta=false&order_by=popularity%20desc 
+total tasks: 5
