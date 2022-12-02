@@ -39,7 +39,7 @@ Level 2: add dropdown for selecting
 arifmetic operations. and do calculation 
 based on chosen arifmetic.
 
-### 7) Counter 
+### 7) ----------- Counter 
 Level 1: create counter
 Level 2: counter should not go to negative.
 if it goes to negative reset counter to 0;
