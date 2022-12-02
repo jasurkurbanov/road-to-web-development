@@ -240,3 +240,9 @@ text bold, italic, underline
 
 Level 2: add color pallette user should 
 change color of text.
+
+
+### 32 stopwatch
+
+settimeout 
+setinterval
