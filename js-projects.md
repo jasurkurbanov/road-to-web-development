@@ -1,4 +1,4 @@
-### 1) Random number generator
+### -----------1) Random number generator
 Level 1: Show random number
 Level 2: Add another button. By pressing 
 this button random number should be displayed 
@@ -9,7 +9,7 @@ Level 1: Show current time. In this format: yyyy/mm/dd hh:mm:ss
 Level 2: Timer should work in live. Every
 second it should update time.
 
-### 3) Random background.
+### -----------3) Random background.
 Level 1: You're given array of colors:
 ['blue','red','green', 'orange','brown','black'].
 Create one button for changing background
@@ -18,7 +18,7 @@ Level 2: Add text on the screen. By pressing on
 button color for text and background should
 be random
 
-### 4) Hello 
+### 4) -----------Hello 
 Level 1: Inside input write any name. And 
 display that name in format "Hello namefrominput"
 Level 2: Input should accept only string.
