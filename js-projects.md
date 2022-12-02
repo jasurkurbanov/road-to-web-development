@@ -246,3 +246,6 @@ change color of text.
 
 settimeout 
 setinterval
+
+
+auto scroll number https://www.elementpack.pro/demo/element/advanced-counter/
